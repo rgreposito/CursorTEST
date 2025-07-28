@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Eve",
+    "department": "Marketing",
+    "salary": 78507.0,
+    "experience": 6,
+    "created_at": "2025-07-28T12:18:13.719849"
+  },
+  {
+    "id": 2,
+    "name": "Charlie",
+    "department": "Sales",
+    "salary": 73117.0,
+    "experience": 1,
+    "created_at": "2025-07-28T12:18:13.719874"
+  },
+  {
+    "id": 3,
+    "name": "Frank",
+    "department": "Marketing",
+    "salary": 122591.70000000001,
+    "experience": 4,
+    "created_at": "2025-07-28T12:18:13.719877"
+  },
+  {
+    "id": 4,
+    "name": "Charlie",
+    "department": "Engineering",
+    "salary": 71460.40000000001,
+    "experience": 14,
+    "created_at": "2025-07-28T12:18:13.719879"
+  },
+  {
+    "id": 5,
+    "name": "Bob",
+    "department": "Finance",
+    "salary": 122453.1,
+    "experience": 13,
+    "created_at": "2025-07-28T12:18:13.719881"
+  }
+]
